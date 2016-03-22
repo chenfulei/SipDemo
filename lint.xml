@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi" severity="ignore">
+        <ignore path="src/com/androidtest/TestActivity.java" />
+    </issue>
+    <issue id="SdCardPath" severity="ignore" />
+    <issue id="SetJavaScriptEnabled" severity="ignore" />
+</lint>
